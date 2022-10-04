@@ -41,7 +41,7 @@ const Dashboard = () => {
       // You can await here
     }
     fetchData();
-  }, [network, balance]); // Or [] if effect doesn't need props or state
+  }, [network, balance, query]); // Or [] if effect doesn't need props or state
 
   return (
     <>
