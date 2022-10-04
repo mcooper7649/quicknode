@@ -33,7 +33,7 @@
 
 ## 1. A customer is reporting that they were charged for a plan that they already canceled.
 
-### what steps are you going to take to resolve this situation?
+### What steps are you going to take to resolve this situation?
 
 ##### This is a common issue and can be quite frustrating for the customer involved and can be tricky to navigate without being empathetic to customer and situation at hand.
 
@@ -50,5 +50,5 @@
 
 > 1. First, I would listen intently while taking notes. We need to differentiete between if the service is having technical issues or just not meeting expecations.
 > 2. If technical, this is an easy fix, we can go over the configuration together and scour over the logs and see what kind of issues they are having. As long as all our customers aren't having the same issues, it's likely a configuration problem. From here we just compare and contrast the configuration of a similiar node that is functional and we should be able to get it running.
-> 3. If not meeting expectations we have a meeting with our product specialists and technical support and speak with our customer and figure out what expectations they are trying to meet and how we can get there or what features are needed in the future to achieve these goals. This way we can submit feature requests to our development team and prioritize HIGH volumne requests.
+> 3. If not meeting expectations we have a meeting with our product specialists and technical support and speak with our customer and figure out what expectations they are trying to meet and how we can get there or what features are needed in the future to achieve these goals. This way we can submit feature requests to our development team and prioritize HIGH volume requests.
 > 4. We must understand that not all expectations can be met of course but more often than not the end user just needs advanced support or a point of contact that can help guide or at the very least someone that will listen to their feedback and relay it to the appropriate teams.
