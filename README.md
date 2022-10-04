@@ -14,7 +14,7 @@
 
 - Bonus points: describe your journey in completing this task, provide context with clear and concise written responses.
 
-#####I know there are many different ways to acheive this task but I wanted to lean into my web development skillset and utilize react to pull this information using etherscan and blockcypher APIs. This way we can pull this information in the future without having to learn and type complex scripts while we can use a nice and clean UI. This steps involved are listed as such:
+##### I know there are many different ways to acheive this task but I wanted to lean into my web development skillset and utilize react to pull this information using etherscan and blockcypher APIs. This way we can pull this information in the future without having to learn and type complex scripts while we can use a nice and clean UI. This steps involved are listed as such:
 
 > 1. First, I wanted to use create-react-app to spin up a fully functional react app without having to configure all the boilerplate.
 > 2. Next, I removed all the unnessesary code and created a dashboard component that will hold all the account information and so logically I will put my useEffect Axios gets in that component so we can keep it modular.
@@ -35,7 +35,7 @@
 
 ### what steps are you going to take to resolve this situation?
 
-#####This is a common issue and can be quite frustrating for the customer involved and can be tricky to navigate without being empathetic to customer and situation at hand.
+##### This is a common issue and can be quite frustrating for the customer involved and can be tricky to navigate without being empathetic to customer and situation at hand.
 
 > 1. First, I would listen to the customer and take notes of the situation as most frustrated customers don't like to repeat themselves.
 > 2. Next, I would confirm account information such as account number or email and access their account on our end and see if the account was actually cancelled.
@@ -46,7 +46,7 @@
 
 ### what steps are you going to take to resolve this situation?
 
-#####This is another common issue and can be caused by two different reasons. The customer needs a little help setting up our service and we can use this as a teaching moment. Or our customer is confused on the type of service we provide.
+##### This is another common issue and can be caused by two different reasons. The customer needs a little help setting up our service and we can use this as a teaching moment. Or our customer is confused on the type of service we provide.
 
 > 1. First, I would listen intently while taking notes. We need to differentiete between if the service is having technical issues or just not meeting expecations.
 > 2. If technical, this is an easy fix, we can go over the configuration together and scour over the logs and see what kind of issues they are having. As long as all our customers aren't having the same issues, it's likely a configuration problem. From here we just compare and contrast the configuration of a similiar node that is functional and we should be able to get it running.
