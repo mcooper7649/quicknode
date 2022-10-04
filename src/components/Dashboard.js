@@ -28,8 +28,6 @@ const Dashboard = () => {
   useEffect(() => {
     async function fetchData() {
       const response = await axios.get(query);
-      // ...
-      console.log(response);
 
       setBalance(response.data.result);
 
