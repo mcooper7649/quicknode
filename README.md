@@ -28,7 +28,7 @@
 > 10. To get latest block I used Blockcypher API
 > 11. Styling was done with boostrap for speed.
 
-[QuikNode-Etherscan-Dashboard](https://quiknode-dash.netlify.app/)
+[QuickNode-Etherscan-Dashboard](https://quicknode-dash.netlify.app/)
 ![alt text](https://img001.prntscr.com/file/img001/bszQ9VGBRoyxuHHofsGlLA.png)
 
 ## 1. A customer is reporting that they were charged for a plan that they already canceled.

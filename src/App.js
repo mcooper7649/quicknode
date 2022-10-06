@@ -5,7 +5,7 @@ import Dashboard from './components/Dashboard';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">QuikNode Etherscan Dashboard</header>
+      <header className="App-header">QuickNode Etherscan Dashboard</header>
       <Dashboard />
     </div>
   );
