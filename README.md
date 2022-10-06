@@ -1,4 +1,4 @@
-##### At QuikNode, we value passion, progress, humility, trust and excellence. This is a three part assignment, engineered with our company values and the skills you’ll need to thrive as a support engineer in mind.
+##### At QuickNode, we value passion, progress, humility, trust and excellence. This is a three part assignment, engineered with our company values and the skills you’ll need to thrive as a support engineer in mind.
 
 ##### What we're selecting for at this step is clarity of thought, ability to communicate and humility.
 
