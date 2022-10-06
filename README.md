@@ -29,7 +29,7 @@
 > 11. Styling was done with boostrap for speed.
 
 [QuickNode-Etherscan-Dashboard](https://quicknode-dash.netlify.app/)
-![alt text](https://img001.prntscr.com/file/img001/bszQ9VGBRoyxuHHofsGlLA.png)
+![alt text](https://img001.prntscr.com/file/img001/1FenubPfTEO0CwpvKyu6Rw.png)
 
 ## 1. A customer is reporting that they were charged for a plan that they already canceled.
 
